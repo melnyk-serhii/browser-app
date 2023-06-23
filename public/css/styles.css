@@ -1,0 +1,107 @@
+body {
+    padding-bottom: 3em;
+}
+
+.login-btn > a {
+    font-weight: 600;
+}
+
+.register-btn {
+    margin-left: 24px;
+}
+
+.top-block {
+    background-image: url('/assets/main-bg.png');
+    background-size: 100% 100%;
+    min-height: 494px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.get-started-btn {
+    margin-top: 56px;
+}
+
+.top-header {
+    font-family: 'Sen', sans-serif;
+    font-weight: 900;
+    max-width: 928px;
+    letter-spacing: -2px;
+    line-height: 64px;
+}
+
+.chrome-logo {
+    margin: 56px auto 18px;
+}
+
+.welcome-description {
+    color: #757575;
+    font-size: 16px;
+    max-width: 688px;
+    margin: 0 auto;
+}
+
+.devices-img {
+    margin-top: 24px;
+    max-width: 688px;
+}
+
+.btn-back {
+    color: #000000;
+    font-size: 16px;
+}
+
+.btn-back i {
+    margin-right: 16px;
+}
+
+.auth-form {
+    margin-top: 20px;
+    font-family: 'Sen', sans-serif;
+}
+
+.auth-form .card {
+    background-color: #ffffff;
+}
+
+.auth-form .card-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-form .person-icon {
+    color: #0057ff;
+    opacity: 0.5;
+    font-size: 32px;
+}
+
+.auth-form .card-text {
+    font-size: 14px;
+    text-align: center;
+    color: #848484;
+    margin-bottom: 32px;
+}
+
+.auth-form .card-body {
+    padding: 48px 24px;
+}
+
+.auth-form .title-text {
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.auth-form .btn-submit {
+    width: 100%;
+    margin-bottom: 48px;
+}
+
+.auth-form .btn-switch {
+    padding-left: 0;
+}
